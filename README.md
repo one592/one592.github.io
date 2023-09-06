@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <table><tr><td valign="top" width="60%">
-   
+
 # <div align="center">I'm one5926🚀, university graduation，embedded worker🤖</div>  
-  
+
 - 🔭 I’m currently working on home😂😂😂  
   
 - 🌱 I’m currently learning C and Python  
@@ -43,11 +43,10 @@ Here are some ideas to get you started:
 # About My Github
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=one592&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=one592&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=one592&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=one592&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 </div>  
 
 <br/>  
-
-# one592.github.io
