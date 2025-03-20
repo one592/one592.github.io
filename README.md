@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=one592&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=one592&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 </div>  
 
 <br/>  
